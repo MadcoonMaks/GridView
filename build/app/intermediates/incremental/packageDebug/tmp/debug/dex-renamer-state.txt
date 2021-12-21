@@ -1,0 +1,4 @@
+#Tue Dec 21 17:11:12 MSK 2021
+base.0=/Users/softsoftekspert/Documents/project/project_mk/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
